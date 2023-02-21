@@ -1,0 +1,18 @@
+# Created by trellis-cli vcanary
+# Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
+
+wordpress_sites:
+  alex.kinsta.com:
+    site_hosts:
+    - canonical: alex.kinsta.com
+    local_path: ../site
+    branch: master
+    repo: https://github.com/AlexHyslop/trellis.git
+    repo_subtree_path: site
+    multisite:
+      enabled: false
+    ssl:
+      enabled: true
+      provider: letsencrypt
+    cache:
+      enabled: true
