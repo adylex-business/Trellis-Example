@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://github.com/roots/trellis/actions">
-    <img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/roots/trellis/ci.yml?branch=master&style=flat-square" />
+    <img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/roots/trellis/ci.yml?branch=master&style=flat-squre" />
   </a>
 
   <a href="https://twitter.com/rootswp">
